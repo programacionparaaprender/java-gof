@@ -1,12 +1,15 @@
 
+## Curso SOLID
+>- https://www.udemy.com/course/java-oops-interview-preparation/learn/lecture/51276537#overview
+
 ### Principios GOF o Gang of Four
 
 ### 1. Patrones Creacionales
 
-#### Singleton (Patrón Singleton)
+#### Singleton (Patrï¿½n Singleton)
 >- ConfigurationService.java
 
-#### Factory Method (Método Fábrica)
+#### Factory Method (Mï¿½todo Fï¿½brica)
 >- PaymentService.java
 
 ### 2. Patrones Estructurales  
